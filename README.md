@@ -22,8 +22,8 @@ Tennesse, apparently the most affordable state.
 Arizona, with the best weather.
 Maine with the best culture.
 Massachusetts with the best wellness.
+![image](https://user-images.githubusercontent.com/107158287/176810706-a8ebbc79-5e91-45b8-94f0-84a96cdb5f50.png)
 
-![image](https://user-images.githubusercontent.com/107158287/176809217-061a36d3-41c9-41c5-817d-649d004e0bbc.png)
 
 
 
