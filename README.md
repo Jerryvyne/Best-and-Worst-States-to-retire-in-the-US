@@ -3,18 +3,22 @@ Best-and-Worst-States-to-retire-in-the-US
 This is the Day 9  task given during the NG30DaysOfLearning
 
 -------------------------------------
+
 #  Problem Statement
 To analyze and visualise the best states and worst states to retire in the Unites States (US) based on five important metrics.
 Metrics are affordability, crime, wellness, weather, and culture.
+
 --------------------------------------
 #  Data Sourcing
 The data was obtained from the web via https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/
+
 ------------------------------------------
 #  Data Cleaning
 The data was obtained from the web into the Power BI and transformed. The data was checked for duplicate which was removed, checked for no errors and correct data types. It was thereafter loaded for analysis.
 
 -----------------------------------------
 # Findings 
+(1)
 Among the total of 50 states in the resource, Georgia ranks top as the best state to retire in.
 
 New Mexico, state with the least crime/criminal activities.
@@ -26,7 +30,7 @@ Massachusetts with the best wellness.
 
 
 
-
+(2)
 On the other hand, there was also an analysis on the worst states to retire in.
 Among the total of 50 states in the resource, Maryland ranks as the worse state to retire in.
 
