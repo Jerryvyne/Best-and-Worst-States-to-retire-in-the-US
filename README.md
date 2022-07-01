@@ -34,7 +34,7 @@ Massachusetts with the best wellness.
 On the other hand, there was also an analysis on the worst states to retire in.
 Among the total of 50 states in the resource, Maryland ranks as the worse state to retire in.
 
-New Hampshire, state with the least crime/criminal activities.
+New Hampshire, state with the most crime/criminal activities.
 Hawaii, as the least affordable state.
 Maine, with the least weather.
 Maine with the least culture.
